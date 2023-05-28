@@ -176,6 +176,11 @@ void last_delete()
         printf("\nOnly node of the list deleted ...\n");
     }
 
+
+
+
+
+
     else
     {
         ptr = head;
@@ -263,4 +268,4 @@ void display()
             ptr = ptr -> next;
         }
     }
-}
+} 
